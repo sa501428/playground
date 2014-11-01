@@ -1,0 +1,24 @@
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagement\bin\x86\Debug\AuroraManagement.dll
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagement\bin\x86\Debug\AuroraManagement.pdb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagement\obj\x86\Debug\AuroraManagement.dll
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagement\obj\x86\Debug\AuroraManagement.pdb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagement\bin\x86\Debug\AuroraManagement.dll
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagement\bin\x86\Debug\AuroraManagement.pdb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\AuroraManagement.dll
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\AuroraManagement.pdb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\bin\x86\Debug\AuroraManagement.dll
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\bin\x86\Debug\AuroraManagement.pdb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\AuroraManagement.dll
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\AuroraManagement.pdb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\bin\x86\Debug\AuroraManagement.dll
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\bin\x86\Debug\AuroraManagement.pdb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\AuroraManagement.csprojResolveAssemblyReference.cache
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\AuroraManagement.dll
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagement\obj\x86\Debug\AuroraManagement.pdb

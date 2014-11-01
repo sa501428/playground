@@ -1,0 +1,8 @@
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\Content\obj\x86\Debug\SoundTextGame.xml
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\Content\obj\x86\Debug\SoundTextGame.xml
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\Content\obj\x86\Debug\SoundTextGame.xml
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\Content\obj\x86\Debug\SoundTextGame.xml

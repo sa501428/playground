@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2011-11-08T13:16:59.3665889-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2011-11-07T14:45:31.3220526-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2011-11-07T14:45:31.4020572-06:00</Time>
+    </Item>
+    <Item>
+      <Source>1.png</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\1.xnb</Output>
+      <Time>2011-11-06T13:26:42.7760824-06:00</Time>
+    </Item>
+    <Item>
+      <Source>2.png</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2011-11-06T13:22:04.4351622-06:00</Time>
+    </Item>
+    <Item>
+      <Source>3.png</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\3.xnb</Output>
+      <Time>2011-11-06T13:23:59.8107613-06:00</Time>
+    </Item>
+    <Item>
+      <Source>5.png</Source>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\5.xnb</Output>
+      <Time>2011-11-06T13:13:35.696064-06:00</Time>
+    </Item>
+    <Item>
+      <Source>6.png</Source>
+      <Name>6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\6.xnb</Output>
+      <Time>2011-11-06T13:29:50.5348216-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Aurora.png</Source>
+      <Name>Aurora</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Aurora.xnb</Output>
+      <Time>2011-11-10T06:04:59.6814988-06:00</Time>
+    </Item>
+    <Item>
+      <Source>AuroraHit.png</Source>
+      <Name>AuroraHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\AuroraHit.xnb</Output>
+      <Time>2011-11-09T02:18:11.3983631-06:00</Time>
+    </Item>
+    <Item>
+      <Source>4.png</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2011-11-06T13:14:19.1105472-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Blast2.png</Source>
+      <Name>Blast2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Blast2.xnb</Output>
+      <Time>2011-10-25T09:48:53.8127002-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blend.png</Source>
+      <Name>Blend</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Blend.xnb</Output>
+      <Time>2011-10-25T14:02:25.5132558-05:00</Time>
+    </Item>
+    <Item>
+      <Source>d1.png</Source>
+      <Name>d1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\d1.xnb</Output>
+      <Time>2011-10-25T14:06:15.4085762-05:00</Time>
+    </Item>
+    <Item>
+      <Source>e1.png</Source>
+      <Name>e1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e1.xnb</Output>
+      <Time>2011-11-01T03:33:19.1813177-05:00</Time>
+    </Item>
+    <Item>
+      <Source>e2.png</Source>
+      <Name>e2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e2.xnb</Output>
+      <Time>2011-11-01T03:32:02.9979602-05:00</Time>
+    </Item>
+    <Item>
+      <Source>e3.png</Source>
+      <Name>e3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e3.xnb</Output>
+      <Time>2011-11-01T03:32:02.7569464-05:00</Time>
+    </Item>
+    <Item>
+      <Source>e4.png</Source>
+      <Name>e4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e4.xnb</Output>
+      <Time>2011-11-01T03:32:03.0539634-05:00</Time>
+    </Item>
+    <Item>
+      <Source>h0.png</Source>
+      <Name>h0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h0.xnb</Output>
+      <Time>2011-11-07T15:12:49.8887733-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h1.png</Source>
+      <Name>h1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h1.xnb</Output>
+      <Time>2011-11-07T15:12:47.9216608-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h2.png</Source>
+      <Name>h2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h2.xnb</Output>
+      <Time>2011-11-07T15:12:45.8615429-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h3.png</Source>
+      <Name>h3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h3.xnb</Output>
+      <Time>2011-11-07T15:12:43.8584284-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h4.png</Source>
+      <Name>h4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h4.xnb</Output>
+      <Time>2011-11-07T15:12:41.7443074-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mist.png</Source>
+      <Name>Mist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Mist.xnb</Output>
+      <Time>2011-10-25T14:02:25.5132558-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerBox.png</Source>
+      <Name>PowerBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\PowerBox.xnb</Output>
+      <Time>2011-10-23T23:47:45.8920891-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pshield.png</Source>
+      <Name>pshield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pshield.xnb</Output>
+      <Time>2011-11-14T12:30:32.2335177-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pspeed.png</Source>
+      <Name>pspeed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pspeed.xnb</Output>
+      <Time>2011-11-14T12:30:54.7228041-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pweapon.png</Source>
+      <Name>pweapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pweapon.xnb</Output>
+      <Time>2011-11-14T12:29:39.8505216-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain1.png</Source>
+      <Name>Terrain1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain1.xnb</Output>
+      <Time>2011-11-07T15:17:31.7228933-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain2.png</Source>
+      <Name>Terrain2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain2.xnb</Output>
+      <Time>2011-10-27T17:54:33.4009956-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain3.png</Source>
+      <Name>Terrain3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain3.xnb</Output>
+      <Time>2011-11-07T15:16:36.7047464-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TurnL.png</Source>
+      <Name>TurnL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\TurnL.xnb</Output>
+      <Time>2011-11-10T06:08:09.8923782-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TurnR.png</Source>
+      <Name>TurnR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\TurnR.xnb</Output>
+      <Time>2011-11-10T06:06:45.3715439-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SteepL.png</Source>
+      <Name>SteepL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SteepL.xnb</Output>
+      <Time>2011-11-10T06:07:44.6329335-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SteepR.png</Source>
+      <Name>SteepR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SteepR.xnb</Output>
+      <Time>2011-11-10T06:07:17.8354007-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pwave.png</Source>
+      <Name>pwave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pwave.xnb</Output>
+      <Time>2011-11-14T12:30:06.0420197-06:00</Time>
+    </Item>
+    <Item>
+      <Source>7.png</Source>
+      <Name>7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\7.xnb</Output>
+      <Time>2011-11-13T12:28:45.2160583-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2011-11-10T05:08:21.0261068-06:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2011-11-10T11:10:43.0868035-06:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_fire.wav</Source>
+      <Name>laser_fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\laser_fire.xnb</Output>
+      <Time>2011-11-10T11:10:43.1698083-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mortal.wav</Source>
+      <Name>mortal</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortal.xnb</Output>
+      <Time>2011-11-14T14:30:48.2062478-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bks.mp3</Source>
+      <Name>bks</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\bks.xnb</Output>
+      <Extra>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\bks.wma</Extra>
+      <Time>2011-11-09T01:40:25.934786-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mortalm.mp3</Source>
+      <Name>mortalm</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortalm.xnb</Output>
+      <Extra>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortalm.wma</Extra>
+      <Time>2011-11-14T14:29:28.2276733-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\Content\</RootDirectory>
+      <LoggerRootDirectory>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-02T01:17:45.3824461-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

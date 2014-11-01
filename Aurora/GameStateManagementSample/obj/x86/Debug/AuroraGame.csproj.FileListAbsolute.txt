@@ -1,0 +1,240 @@
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\3.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\5.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\6.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Aurora.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\AuroraHit.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Blast2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Blend.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\d1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\e1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\e2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\e3.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\e4.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\h0.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\h1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\h2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\h3.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\h4.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Mist.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\PowerBox.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\pshield.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\pspeed.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\pweapon.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Terrain1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Terrain2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Terrain3.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\AuroraGame.exe
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\AuroraGame.pdb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\AuroraManagement.dll
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\AuroraManagement.pdb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\obj\x86\Debug\AuroraGame.exe
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\obj\x86\Debug\AuroraGame.pdb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\TurnL.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\TurnR.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\SteepL.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\SteepR.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\laser_fire.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\SoundTextGame.xgs
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\pwave.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\4.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\7.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\mortal.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\bks.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\bks.wma
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\mortalm.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\Content\mortalm.wma
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\AuroraGame.exe.manifest
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\bin\x86\Debug\AuroraGame.application
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\obj\x86\Debug\AuroraGame.exe.manifest
+C:\Users\Muhammad Saad Shamim\Desktop\Aurora\GameStateManagementSample\obj\x86\Debug\AuroraGame.application
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\3.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\5.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\6.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Aurora.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\AuroraHit.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\4.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Blast2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Blend.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\d1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e3.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e4.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h0.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h3.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h4.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Mist.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\PowerBox.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pshield.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pspeed.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pweapon.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain1.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain2.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain3.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\TurnL.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\TurnR.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SteepL.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SteepR.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pwave.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\7.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\laser_fire.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortal.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\bks.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortalm.xnb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\bks.wma
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortalm.wma
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SoundTextGame.xgs
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.exe.manifest
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.application
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.exe
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.pdb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraManagement.dll
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraManagement.pdb
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.exe.manifest
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.application
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.exe
+C:\Users\Muhammad Saad Shamim\Desktop\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.pdb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\1.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\2.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\3.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\5.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\6.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Aurora.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\AuroraHit.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\4.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Blast2.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Blend.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\d1.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e1.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e2.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e3.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e4.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h0.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h1.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h2.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h3.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h4.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Mist.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\PowerBox.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pshield.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pspeed.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pweapon.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain1.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain2.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain3.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\TurnL.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\TurnR.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SteepL.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SteepR.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pwave.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\7.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\explosion.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\laser_fire.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortal.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\bks.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortalm.xnb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\bks.wma
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortalm.wma
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SoundTextGame.xgs
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Wave Bank.xwb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Sound Bank.xsb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.exe.manifest
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.application
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.exe
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.pdb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraManagement.dll
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraManagement.pdb
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.exe.manifest
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.application
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.exe
+G:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.pdb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\1.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\2.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\3.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\5.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\6.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Aurora.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\AuroraHit.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\4.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Blast2.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Blend.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\d1.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e1.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e2.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e3.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\e4.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h0.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h1.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h2.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h3.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\h4.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Mist.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\PowerBox.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pshield.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pspeed.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pweapon.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain1.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain2.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Terrain3.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\TurnL.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\TurnR.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SteepL.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SteepR.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\pwave.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\7.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\explosion.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\laser_fire.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortal.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\bks.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortalm.xnb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\bks.wma
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\mortalm.wma
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\SoundTextGame.xgs
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Wave Bank.xwb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\Content\Sound Bank.xsb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.exe.manifest
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.application
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.exe
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraGame.pdb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraManagement.dll
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\bin\x86\Debug\AuroraManagement.pdb
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.csprojResolveAssemblyReference.cache
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.exe.manifest
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.application
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.exe
+F:\DATA\Data Backup\2011\12.17.2011\COMP 160\AuroraGame\GameStateManagementSample\obj\x86\Debug\AuroraGame.pdb
