@@ -6,6 +6,7 @@ Simply a vault for storing random pieces of code and scripts that I've used at s
 * Algorithms - various scripts used in solving past code challenges
 * Aurora - Top Down Shooter for Windows/XBOX implemented with C# and XNA
 * Cartoon - experimental code for cartoonifying an image
+* Crumbs - random code tidbits for various tasks
 * Larsson - [NOT COMPLETE] Matlab implementation of Fourier transform for the SVCJ model (Larsson, Nossman 2011, Appendix B)
 * Puzzles - more algorithm challenges
 * Web Scraping - Python Functions involved in scraping data from webpages
